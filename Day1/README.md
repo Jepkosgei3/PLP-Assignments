@@ -79,7 +79,7 @@ Key Responsibilities:
 - Performance and Stress Testing: Assess the software's performance under load and ensure it can handle expected traffic or user interactions.
 - Continuous Improvement: Participate in post-release reviews to identify improvements for future versions or processes.
 
-ii. Project Manager
+iii. Project Manager
 
 Key Responsibilities:
 - Project Planning: Define the project scope, objectives, timeline, and deliverables. They develop a detailed project plan that outlines tasks, milestones, and resources needed.
