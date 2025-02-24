@@ -1,9 +1,10 @@
 SE_Day1_Assignment
 
-#Part 1: Introduction to Software Engineering
+**Part 1: Introduction to Software Engineering**
 
-##1. Explain what software engineering is and discuss its importance in the technology industry
-Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems.
+**1. Explain what software engineering is and discuss its importance in the technology industry**
+
+**Software engineering** is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems.
 Importance in the Technology Industry:
 - Reliability and Quality: Software engineering helps ensure that the software produced is reliable and meets specific quality standards. This is crucial in industries where failures can lead to significant consequences, like healthcare, finance, or transportation.
 - Scalability: As the demand for software grows, software engineers ensure that applications can scale to handle increased usage without compromising performance.
@@ -12,12 +13,12 @@ Importance in the Technology Industry:
 - Collaboration and Teamwork: Software engineering emphasizes the use of frameworks, methodologies (like Agile, DevOps), and tools that enable better communication and collaboration among development teams, which is crucial for building complex systems.
 - Innovation and Competitive Edge: Software engineering drives innovation by developing advanced technologies like artificial intelligence, machine learning, and blockchain. These innovations create a competitive edge for companies in the technology sector.
 
-##2.Identify and describe at least three key milestones in the evolution of software engineering.  
+**2. Identify and describe at least three key milestones in the evolution of software engineering.** 
 - Birth of Software Engineering (1960s) – Marked the formalization of software development as an engineering discipline.
 - Introduction of Structured Programming (1970s) – Helped organize software code to be more modular, readable, and maintainable.
 - Emergence of Agile Methodologies (2000s) – Introduced flexible, iterative development processes that emphasized collaboration and responsiveness to change.
 
-##3. List and briefly explain the phases of the Software Development Life Cycle.
+**3. List and briefly explain the phases of the Software Development Life Cycle.**
 - Requirement Gathering and Analysis – Understand and document the software requirements.
 - System Design – Plan the software architecture and design details.
 - Implementation (Coding) – Develop the software based on the design.
