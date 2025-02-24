@@ -42,8 +42,8 @@ When to Use Waterfall:
 - Well-Defined Requirements: If the requirements are clear, stable, and unlikely to change throughout the project.
 - Predictable Projects: For projects where timelines, budgets, and resources are well-known in advance (e.g., regulatory software, government projects).
 - Shorter, Smaller Projects: For projects with limited complexity that don't require continuous feedback and iteration.
-- 
-  **Agile Methodology**
+
+**Agile Methodology**
   
 Characteristics of Agile:
 - Iterative Process: Work is divided into short, time-boxed iterations (called sprints) that typically last 2-4 weeks.
