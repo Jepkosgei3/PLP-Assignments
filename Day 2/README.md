@@ -8,7 +8,7 @@ GitHub is popular due to:
 - Community & Open Source: Hosts millions of projects, fostering contribution.
 - Project Integrity: VCS prevents conflicts, documents changes, and ensures accountability via commit history.
 
-**2. Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process? **
+**2. Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?**
 
 Steps:
 - Click New Repository on GitHub.
@@ -64,7 +64,6 @@ Steps to make commit
 - Push: `git push -u origin main`
 
 **Commits** are snapshots of changes to one or more files in your branch. Git assigns each commit a unique ID, called a SHA or hash, that identifies: The specific changes. When the changes were made.
-
 Git commits provide an efficient way to track changes in your project over time. 
 This version control is essential for collaboration among developers, allowing them to work on different aspects of the project simultaneously
 
