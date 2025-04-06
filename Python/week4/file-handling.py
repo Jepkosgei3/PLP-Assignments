@@ -24,10 +24,10 @@ def read_and_modify_file(input_filename, output_filename):
 
 def main():
     # Ask the user for the input filename
-    input_filename = input("Enter the filename to read from: ")
+    input_filename = "file.txt"
     
     # Ask the user for the output filename
-    output_filename = input("Enter the filename to save the modified content: ")
+    output_filename = "modified.txt"
 
     # Call the function to read, modify and save the file
     read_and_modify_file(input_filename, output_filename)
